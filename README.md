@@ -18,4 +18,4 @@ This was a 3-week project for the same class at DIS with the same collaborator. 
 
 Repo: https://github.com/reddsaut/sandcastle-game
 
-Itch link inbound
+Play Link: https://reddsaut.itch.io/city-builder-card-game-demo
